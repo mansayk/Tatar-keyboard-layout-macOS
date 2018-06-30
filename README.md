@@ -1,7 +1,7 @@
 # Tatar keyboard layouts for Mac OS
 
 Installation:
-- Download and run "Tatar_keyboard_layout_MacOS.dmg" file and drug "Tatar.bundle" into specified folder).
+- Download and run "Tatar_keyboard_layout_MacOS.dmg" file and drug "Tatar.bundle" into specified folder.
 - Enable the new keyboard layout from System Preferences.
 
 Manual installation:

@@ -1,4 +1,4 @@
-# Tatar keyboard layouts for Mac OS. 
+# Tatar keyboard layouts for Mac OS
 
 Installation:
 - Download and run "Tatar_keyboard_layout_MacOS.dmg" file and drug "Tatar.bundle" into specified folder).
@@ -12,7 +12,7 @@ Tested on: macOS High Sierra.
 
 -----------------------------
 
-# Татарская раскладка клавиатуры для Mac OS.
+# Татарская раскладка клавиатуры для Mac OS
 
 Установка:
 - Скачайте и запустите файл Tatar_keyboard_layout_MacOS.dmg, перенесите файл Tatar.bundle в указанную папку.
@@ -26,7 +26,7 @@ Tested on: macOS High Sierra.
 
 -----------------------------
 
-# Mac OS өчен татар клавиатурасы.
+# Mac OS өчен татар клавиатурасы
 
 Компьютерга урнаштыру:
 - "Tatar_keyboard_layout_MacOS.dmg" файлын йөкләп алыгыз һәм аңа ике тапкыр басып эшләтеп җибәрегез.

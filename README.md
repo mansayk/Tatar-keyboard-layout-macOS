@@ -1,4 +1,4 @@
-# Tatar-keyboard-layout-macOS
+# Tatar keyboard layout for macOS
 Tatar keyboard layouts for Mac OS. 
 
 Installation:

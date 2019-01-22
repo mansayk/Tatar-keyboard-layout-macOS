@@ -8,7 +8,7 @@
 - Just copy "Tatar.bundle" catalogue to the "~/Library/Keyboard Layouts/" or "/Library/Keyboard Layouts/" directory.
 - Enable the new keyboard layout from System Preferences.
 
-### Tested on: macOS High Sierra.
+### Tested on: macOS High Sierra, Mojave.
 
 -----------------------------
 
@@ -22,7 +22,7 @@
 - Просто скопируйте каталог "Tatar.bundle" в папку "~/Library/Keyboard Layouts/" или "/Library/Keyboard Layouts/".
 - Включите новую раскладку в Системных настройках.
 
-### Проверено на: macOS High Sierra.
+### Проверено на: macOS High Sierra, Mojave.
 
 -----------------------------
 
@@ -37,4 +37,4 @@
 - "Tatar.bundle" каталогын "~/Library/Keyboard Layouts/" яки "/Library/Keyboard Layouts/" папкасына күчерегез.
 - Система параметларына кереп, анда әлеге яңа клавиатураны сайлап алыгыз.
 
-### Эшләнеше тикшерелгән системалар: macOS High Sierra.
+### Эшләнеше тикшерелгән системалар: macOS High Sierra, Mojave.

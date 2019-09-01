@@ -1,0 +1,17 @@
+_*
+*_
+*[0-9]
+
+*~
+*.swp
+*.swo
+
+*.doc
+*.docx
+*.fodt
+*.html
+*.htm
+
+Thumbs.db
+.DS_Store
+.idea

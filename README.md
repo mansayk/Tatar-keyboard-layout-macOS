@@ -9,8 +9,8 @@ The repository contains Mac and PC style keyboard layouts for Tatar language.
 
 ### Manual installation:
 - Just copy "Tatar.bundle" catalogue to one of the following directories:
-    - "~/Library/Keyboard Layouts/" (for the particular user only);
-    - "/Library/Keyboard Layouts/" (system-wide, for all users).
+    - "`~/Library/Keyboard Layouts/`" (for the particular user only);
+    - "`/Library/Keyboard Layouts/`" (system-wide, for all users).
 - Enable the new keyboard layout from the System Preferences.
 
 ### Tested on: macOS High Sierra, Mojave, Catalina.

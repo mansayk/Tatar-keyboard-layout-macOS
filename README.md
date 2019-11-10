@@ -13,7 +13,8 @@ The repository contains Mac and PC style keyboard layouts for Tatar language.
     - `/Library/Keyboard Layouts/` system-wide, for all users.
 - Enable the new keyboard layout from the System Preferences.
 
-### Tested on: macOS High Sierra, Mojave, Catalina.
+### Tested on:
+- macOS High Sierra, Mojave, Catalina.
 
 -----------------------------
 
@@ -32,7 +33,8 @@ The repository contains Mac and PC style keyboard layouts for Tatar language.
     - `/Library/Keyboard Layouts/` общесистемная установка, для всех пользователей.
 - Включите новую раскладку в Системных настройках.
 
-### Проверено на: macOS High Sierra, Mojave, Catalina.
+### Проверено на:
+- macOS High Sierra, Mojave, Catalina.
 
 -----------------------------
 
@@ -51,4 +53,5 @@ The repository contains Mac and PC style keyboard layouts for Tatar language.
     - `/Library/Keyboard Layouts/` системакүләм, бөтен кулланучылар өчен.
 - Система параметларына кереп, анда әлеге яңа клавиатураны сайлап алыгыз.
 
-### Эшләве тикшерелгән системалар: macOS High Sierra, Mojave, Catalina.
+### Эшләве тикшерелгән системалар:
+- macOS High Sierra, Mojave, Catalina.

@@ -1,4 +1,4 @@
-# Tatar keyboard layouts for Mac OS (macOS)
+# Tatar keyboard layouts for Mac OS X (macOS)
 
 The repository contains Mac and PC style keyboard layouts for Tatar language.
 
@@ -18,7 +18,7 @@ The repository contains Mac and PC style keyboard layouts for Tatar language.
 
 -----------------------------
 
-# Татарская раскладка клавиатуры для Mac OS (macOS)
+# Татарская раскладка клавиатуры для Mac OS X (macOS)
 
 Репозиторий содержит Mac и PC варианты раскладки клавиатуры для татарского языка.
 
@@ -38,7 +38,7 @@ The repository contains Mac and PC style keyboard layouts for Tatar language.
 
 -----------------------------
 
-# Mac OS (macOS) өчен татар клавиатурасы
+# Mac OS X (macOS) өчен татар клавиатурасы
 
 Әлеге репозиторийда Mac һәм PC платформаларына хас татар теле өчен клавиатура төрләре урнашкан.
 

@@ -2,6 +2,8 @@
 
 The repository contains Mac and PC style keyboard layouts for the Tatar language.
 
+![Tatar keyboard layout captured from the settings of macOS](layout.png)
+
 ### Installation:
 - Download the file `Tatar_keyboard_layout_MacOS_vX.Y.Z.dmg` from the [releases](https://github.com/mansayk/Tatar-keyboard-layout-macOS/releases) section and run it.
 - Drag `Tatar.bundle` into specified folder.
